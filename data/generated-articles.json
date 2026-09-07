@@ -1,5 +1,133 @@
 [
   {
+    "categorie": "Programmes",
+    "contenu": [
+      {
+        "content": "Introduction aux Programmes de Musculation",
+        "type": "h2"
+      },
+      {
+        "content": "Lorsque tu commences la musculation, tu es souvent confronté à une multitude de programmes et de méthodes qui peuvent te sembler complexes et difficiles à choisir. Deux des programmes les plus populaires sont le full body et le split. Mais quels sont les avantages et les inconvénients de chaque programme ? Et comment choisir celui qui te convient le mieux en fonction de ton niveau et de tes objectifs ?",
+        "type": "p"
+      },
+      {
+        "content": "Qu'est-ce que le Full Body ?",
+        "type": "h2"
+      },
+      {
+        "content": "Le full body est un programme de musculation qui consiste à travailler tous les muscles du corps en une seule séance. Cela signifie que tu effectues des exercices pour les muscles de la poitrine, du dos, des épaules, des bras et des jambes lors de chaque séance. Le full body est idéal pour les débutants, car il permet de développer une base de force et de musculature de manière équilibrée.",
+        "type": "p"
+      },
+      {
+        "content": [
+          "Avantages du full body :",
+          "Développement d'une base de force et de musculature équilibrée",
+          "Meilleure récupération et réduction du risque de blessure",
+          "Séances plus courtes et plus efficaces"
+        ],
+        "type": "ul"
+      },
+      {
+        "content": "Qu'est-ce que le Split ?",
+        "type": "h2"
+      },
+      {
+        "content": "Le split est un programme de musculation qui consiste à diviser les muscles du corps en plusieurs groupes et à les travailler séparément. Par exemple, tu peux travailler les muscles de la poitrine et des triceps un jour, et les muscles du dos et des biceps le lendemain. Le split est idéal pour les intermédiaires et les avancés, car il permet de cibler spécifiquement les muscles et de développer une musculature plus importante.",
+        "type": "p"
+      },
+      {
+        "content": [
+          "Avantages du split :",
+          "Possibilité de cibler spécifiquement les muscles et de développer une musculature plus importante",
+          "Meilleure progression et augmentation de la force",
+          "Réduction du risque de surmenage et de blessure"
+        ],
+        "type": "ol"
+      },
+      {
+        "content": "Comment Choisir entre le Full Body et le Split ?",
+        "type": "h2"
+      },
+      {
+        "content": "Pour choisir entre le full body et le split, il est important de considérer ton niveau et tes objectifs. Si tu es débutant, le full body est probablement le meilleur choix, car il permet de développer une base de force et de musculature de manière équilibrée. Si tu es intermédiaire ou avancé, le split peut être un meilleur choix, car il permet de cibler spécifiquement les muscles et de développer une musculature plus importante.",
+        "type": "p"
+      },
+      {
+        "content": "N'oublie pas de consulter un professionnel de la musculation avant de commencer un nouveau programme, surtout si tu es débutant ou si tu as des problèmes de santé.",
+        "type": "tip"
+      },
+      {
+        "content": "Exemple de Programme Full Body pour les Débutants",
+        "type": "h2"
+      },
+      {
+        "content": "Voici un exemple de programme full body pour les débutants :",
+        "type": "p"
+      },
+      {
+        "content": [
+          "Lundi :",
+          "Squats : 3 séries de 8-12 répétitions",
+          "Pompes : 3 séries de 8-12 répétitions",
+          "Tirage au trapèze : 3 séries de 8-12 répétitions",
+          "Développé couché : 3 séries de 8-12 répétitions"
+        ],
+        "type": "ul"
+      },
+      {
+        "content": "Exemple de Programme Split pour les Intermédiaires",
+        "type": "h2"
+      },
+      {
+        "content": "Voici un exemple de programme split pour les intermédiaires :",
+        "type": "p"
+      },
+      {
+        "content": [
+          "Lundi :",
+          "Poitrine :",
+          "Développé couché : 3 séries de 8-12 répétitions",
+          "Développé incliné : 3 séries de 8-12 répétitions",
+          "Triceps :",
+          "Pompes : 3 séries de 8-12 répétitions",
+          "Extensions triceps : 3 séries de 8-12 répétitions"
+        ],
+        "type": "ol"
+      },
+      {
+        "content": "N'oublie pas de varier tes exercices et tes programmes régulièrement pour éviter la stagnation et les blessures.",
+        "type": "warning"
+      },
+      {
+        "content": "Conclusion",
+        "type": "h2"
+      },
+      {
+        "content": "En conclusion, le choix entre le full body et le split dépend de ton niveau et de tes objectifs. Il est important de considérer tes besoins et tes limites avant de commencer un nouveau programme. N'oublie pas de consulter un professionnel de la musculation et de varier tes exercices et tes programmes régulièrement pour éviter la stagnation et les blessures.",
+        "type": "p"
+      },
+      {
+        "content": "N'hésite pas à partager tes expériences et tes conseils avec les autres pour aider à améliorer la communauté de la musculation.",
+        "type": "tip"
+      }
+    ],
+    "datePublication": "2026-09-07",
+    "description": "Découvrez comment choisir entre les programmes full body et split en fonction de ton niveau et de tes objectifs de musculation.",
+    "descriptionSeo": "Programme full body ou split : conseils pour les débutants, intermédiaires et avancés en musculation. Choisis le programme qui te convient le mieux.",
+    "image": "/blog/full-body-ou-split-quel-programme-pour-quel-niveau-z0vm.jpg",
+    "slug": "full-body-ou-split-quel-programme-pour-quel-niveau-z0vm",
+    "tags": [
+      "full-body",
+      "split",
+      "programme-musculation",
+      "niveau-debutant",
+      "niveau-intermediaire",
+      "niveau-avance"
+    ],
+    "tempsLecture": 8,
+    "titre": "Full Body ou Split : Quel Programme pour Quel Niveau ?"
+  },
+  {
     "categorie": "Conseils",
     "contenu": [
       {
